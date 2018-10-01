@@ -1,5 +1,9 @@
 # Changelog
 
+## v5.4.0 (Oct 1 2018)
+
+* [logger] Use official lib of rollbar in rollbarplugin
+
 ## v5.3.1 (Sep 27 2018)
 
 * [graceful] Fix ListenAndServeTLS to correctly use a tls.Listener
